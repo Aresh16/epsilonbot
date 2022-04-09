@@ -23,7 +23,7 @@
     "discord.js-commando": "^0.10.0",
     "discord.js-musicbot-addon": "^13.6.0",
     "ffmpeg-binaries": "^4.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "opusscript": "0.0.6",
     "simple-youtube-api": "^5.2.1",
     "weather": "^0.1.0",
